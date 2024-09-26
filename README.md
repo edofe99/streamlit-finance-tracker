@@ -1,6 +1,6 @@
-# Streamlit Finance Tracker
+# Streamlit Personal Finances Tracker
 A finance tracker web-app built with Streamlit. 
-- Try the application with simulated data here:
+- Try the application with simulated data [here](https://personal-finances-tracker.streamlit.app/).
 - Interact and make suggestion here:
 
 ## Overview
