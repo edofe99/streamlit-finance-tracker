@@ -1,0 +1,575 @@
+Date,Expense,Amount,Account,Category,Note
+2023-01-01,Salary,500.0,Citibank,Main Job,Monthly salary credited
+2023-01-01,Dividends,200.0,Bank of America,Investments,Monthly dividends credited
+2023-01-01,Rental Earnings,700.0,Chase,Real Estate,Monthly rental income
+2023-04-01,Salary,500.0,Citibank,Main Job,Monthly salary credited
+2023-04-01,Dividends,200.0,Bank of America,Investments,Monthly dividends credited
+2023-04-01,Rental Earnings,700.0,Chase,Real Estate,Monthly rental income
+2023-05-01,Salary,500.0,Citibank,Main Job,Monthly salary credited
+2023-05-01,Dividends,200.0,Bank of America,Investments,Monthly dividends credited
+2023-05-01,Rental Earnings,700.0,Chase,Real Estate,Monthly rental income
+2024-09-13,Dining,-430.93,Citibank,Food & Dining,
+2024-07-07,Education,-253.26,Citibank,Education,
+2024-08-06,Healthcare,-456.48,Bank of America,Healthcare,Expense related to healthcare
+2023-01-29,Groceries,-316.25,Chase,Household,Expense related to groceries
+2023-08-28,Shopping,-414.78,Chase,Shopping,
+2023-09-07,Rent,-299.09,Chase,Housing,
+2023-02-22,Utilities,-290.38,Chase,Utilities,
+2023-11-09,Utilities,-227.3,Bank of America,Utilities,
+2024-07-31,Healthcare,-372.79,Citibank,Healthcare,
+2024-06-02,Groceries,-324.72,Citibank,Household,Expense related to groceries
+2024-07-07,Healthcare,-445.28,Citibank,Healthcare,
+2023-05-10,Travel,-312.63,Bank of America,Travel,
+2024-08-26,Dining,-8.44,Citibank,Food & Dining,Expense related to dining
+2023-01-03,Entertainment,-441.99,Bank of America,Entertainment,
+2023-06-20,Groceries,-288.41,Bank of America,Household,
+2023-04-09,Healthcare,-213.42,Chase,Healthcare,
+2024-09-09,Shopping,-1.62,Bank of America,Shopping,
+2023-10-29,Rent,-46.8,Bank of America,Housing,
+2023-01-12,Healthcare,-411.09,Bank of America,Healthcare,
+2023-06-26,Utilities,-186.65,Bank of America,Utilities,
+2024-01-08,Utilities,-95.02,Citibank,Utilities,
+2024-09-18,Education,-236.18,Citibank,Education,
+2023-02-12,Education,-226.02,Citibank,Education,
+2023-04-18,Shopping,-85.08,Chase,Shopping,
+2024-08-05,Rent,-345.17,Bank of America,Housing,
+2023-04-22,Shopping,-120.55,Bank of America,Shopping,
+2023-01-08,Healthcare,-450.35,Bank of America,Healthcare,
+2023-09-20,Rent,-312.5,Chase,Housing,
+2024-04-23,Healthcare,-271.34,Bank of America,Healthcare,
+2024-06-14,Healthcare,-449.41,Bank of America,Healthcare,
+2023-04-06,Shopping,-349.68,Chase,Shopping,
+2023-02-07,Shopping,-331.64,Bank of America,Shopping,
+2024-09-13,Travel,-441.42,Chase,Travel,
+2023-07-31,Dining,-354.4,Chase,Food & Dining,
+2023-09-07,Dining,-397.53,Chase,Food & Dining,
+2023-09-09,Healthcare,-201.08,Chase,Healthcare,
+2023-03-04,Rent,-442.68,Citibank,Housing,
+2023-06-07,Shopping,-236.69,Citibank,Shopping,
+2023-11-08,Rent,-402.52,Bank of America,Housing,
+2023-07-12,Entertainment,-295.66,Citibank,Entertainment,
+2023-04-01,Rent,-383.98,Chase,Housing,
+2023-06-14,Rent,-239.39,Chase,Housing,
+2023-01-06,Dining,-483.56,Bank of America,Food & Dining,
+2023-04-20,Dining,-116.82,Chase,Food & Dining,
+2024-04-15,Shopping,-227.77,Citibank,Shopping,
+2023-04-21,Shopping,-252.26,Chase,Shopping,
+2024-06-19,Travel,-253.63,Chase,Travel,
+2024-04-21,Education,-469.64,Chase,Education,
+2024-02-16,Groceries,-88.12,Bank of America,Household,
+2023-10-25,Travel,-324.08,Chase,Travel,Expense related to travel
+2023-01-10,Dining,-305.98,Chase,Food & Dining,
+2024-01-25,Shopping,-341.47,Chase,Shopping,
+2023-03-25,Groceries,-212.16,Citibank,Household,
+2023-03-09,Travel,-279.56,Bank of America,Travel,
+2023-06-04,Travel,-285.49,Citibank,Travel,
+2024-02-09,Entertainment,-429.2,Citibank,Entertainment,
+2023-11-25,Dining,-28.55,Chase,Food & Dining,Expense related to dining
+2023-04-03,Entertainment,-102.93,Citibank,Entertainment,
+2024-02-20,Shopping,-65.33,Bank of America,Shopping,
+2023-01-20,Healthcare,-187.41,Chase,Healthcare,Expense related to healthcare
+2023-03-27,Shopping,-407.47,Citibank,Shopping,
+2023-02-26,Dining,-347.01,Chase,Food & Dining,
+2023-10-26,Rent,-57.36,Citibank,Housing,
+2024-06-11,Dining,-86.3,Citibank,Food & Dining,
+2023-12-23,Education,-214.45,Bank of America,Education,
+2023-07-26,Rent,-466.08,Bank of America,Housing,
+2024-04-21,Groceries,-432.41,Chase,Household,
+2023-06-25,Dining,-195.03,Bank of America,Food & Dining,
+2023-12-28,Utilities,-248.69,Citibank,Utilities,
+2023-05-02,Entertainment,-298.88,Bank of America,Entertainment,
+2023-12-23,Travel,-395.76,Bank of America,Travel,
+2023-07-20,Entertainment,-26.6,Chase,Entertainment,Expense related to entertainment
+2024-06-24,Dining,-437.38,Citibank,Food & Dining,Expense related to dining
+2024-04-16,Groceries,-498.33,Citibank,Household,
+2024-03-25,Utilities,-24.86,Bank of America,Utilities,
+2024-04-01,Education,-378.94,Chase,Education,
+2023-12-10,Entertainment,-355.07,Citibank,Entertainment,
+2024-07-13,Education,-242.94,Bank of America,Education,
+2023-01-06,Rent,-315.24,Bank of America,Housing,
+2023-02-17,Dining,-197.63,Citibank,Food & Dining,
+2024-02-01,Entertainment,-444.01,Citibank,Entertainment,
+2024-04-10,Shopping,-18.16,Chase,Shopping,Expense related to shopping
+2023-04-03,Rent,-480.0,Citibank,Housing,Expense related to rent
+2023-03-17,Education,-266.43,Chase,Education,
+2023-08-25,Shopping,-231.47,Bank of America,Shopping,Expense related to shopping
+2024-06-19,Dining,-217.72,Bank of America,Food & Dining,Expense related to dining
+2023-01-14,Education,-418.02,Bank of America,Education,
+2023-09-30,Travel,-72.63,Bank of America,Travel,Expense related to travel
+2024-01-10,Travel,-380.52,Bank of America,Travel,
+2023-12-16,Education,-55.62,Bank of America,Education,Expense related to education
+2023-11-08,Travel,-264.94,Chase,Travel,
+2023-01-28,Groceries,-223.31,Citibank,Household,
+2024-06-29,Utilities,-246.62,Chase,Utilities,
+2023-12-20,Travel,-135.2,Chase,Travel,
+2024-04-15,Rent,-375.8,Chase,Housing,
+2024-02-25,Entertainment,-84.81,Bank of America,Entertainment,
+2023-01-23,Utilities,-195.44,Chase,Utilities,
+2024-01-11,Entertainment,-2.91,Citibank,Entertainment,
+2023-11-22,Education,-170.02,Citibank,Education,
+2024-07-04,Rent,-1.17,Citibank,Housing,
+2024-06-17,Groceries,-480.88,Chase,Household,
+2024-02-12,Education,-370.59,Citibank,Education,
+2023-03-17,Groceries,-5.48,Chase,Household,Expense related to groceries
+2023-09-27,Travel,-33.66,Chase,Travel,Expense related to travel
+2024-09-16,Travel,-281.87,Bank of America,Travel,Expense related to travel
+2023-01-26,Travel,-242.79,Bank of America,Travel,
+2023-11-11,Rent,-313.18,Citibank,Housing,Expense related to rent
+2024-01-17,Education,-498.73,Bank of America,Education,
+2024-01-29,Healthcare,-131.99,Bank of America,Healthcare,
+2023-07-10,Entertainment,-282.48,Chase,Entertainment,
+2023-03-20,Entertainment,-323.82,Citibank,Entertainment,
+2023-02-27,Dining,-270.08,Citibank,Food & Dining,
+2023-12-14,Travel,-138.62,Bank of America,Travel,
+2023-10-04,Rent,-191.21,Bank of America,Housing,
+2023-04-25,Travel,-144.67,Bank of America,Travel,
+2024-02-28,Utilities,-312.75,Chase,Utilities,
+2023-07-09,Groceries,-483.38,Chase,Household,
+2024-09-12,Entertainment,-147.52,Citibank,Entertainment,
+2024-08-23,Utilities,-97.98,Bank of America,Utilities,
+2024-06-22,Healthcare,-125.79,Bank of America,Healthcare,
+2023-04-24,Rent,-214.84,Bank of America,Housing,
+2023-06-13,Education,-66.85,Chase,Education,Expense related to education
+2023-06-29,Entertainment,-47.42,Bank of America,Entertainment,
+2023-03-30,Groceries,-424.85,Chase,Household,
+2023-07-26,Utilities,-288.9,Citibank,Utilities,
+2023-11-27,Entertainment,-119.53,Citibank,Entertainment,
+2024-03-21,Dining,-346.63,Citibank,Food & Dining,
+2024-02-19,Rent,-189.84,Chase,Housing,
+2023-06-29,Entertainment,-425.0,Citibank,Entertainment,
+2024-01-07,Entertainment,-278.0,Citibank,Entertainment,
+2023-09-30,Travel,-143.13,Citibank,Travel,Expense related to travel
+2024-06-15,Groceries,-37.88,Chase,Household,Expense related to groceries
+2024-05-21,Rent,-373.17,Bank of America,Housing,
+2024-01-19,Rent,-303.19,Chase,Housing,
+2023-04-29,Groceries,-474.6,Chase,Household,
+2024-09-13,Healthcare,-438.73,Citibank,Healthcare,
+2024-03-02,Entertainment,-170.74,Bank of America,Entertainment,
+2024-04-18,Healthcare,-423.71,Chase,Healthcare,Expense related to healthcare
+2023-06-04,Entertainment,-392.82,Citibank,Entertainment,
+2023-03-31,Healthcare,-311.94,Bank of America,Healthcare,
+2024-08-25,Travel,-257.67,Citibank,Travel,
+2024-03-19,Dining,-17.35,Bank of America,Food & Dining,Expense related to dining
+2024-01-05,Utilities,-370.98,Bank of America,Utilities,
+2024-09-08,Travel,-329.91,Citibank,Travel,
+2023-03-13,Rent,-142.06,Chase,Housing,
+2023-07-02,Entertainment,-143.09,Bank of America,Entertainment,
+2024-04-09,Dining,-283.68,Chase,Food & Dining,
+2024-02-14,Groceries,-132.68,Bank of America,Household,
+2024-08-15,Utilities,-31.56,Citibank,Utilities,
+2024-09-15,Utilities,-24.04,Chase,Utilities,
+2023-08-27,Groceries,-308.82,Bank of America,Household,
+2024-02-19,Shopping,-194.03,Chase,Shopping,
+2024-05-02,Shopping,-4.29,Bank of America,Shopping,
+2024-09-16,Rent,-320.58,Bank of America,Housing,
+2024-09-01,Groceries,-272.91,Bank of America,Household,
+2023-05-11,Groceries,-206.78,Bank of America,Household,
+2024-02-27,Entertainment,-336.35,Chase,Entertainment,
+2023-08-10,Education,-205.27,Citibank,Education,
+2023-07-13,Utilities,-104.93,Citibank,Utilities,
+2023-02-16,Groceries,-166.73,Citibank,Household,Expense related to groceries
+2023-02-11,Shopping,-155.14,Citibank,Shopping,
+2023-01-26,Entertainment,-448.55,Citibank,Entertainment,
+2024-05-12,Groceries,-329.87,Bank of America,Household,
+2024-01-12,Travel,-237.25,Citibank,Travel,Expense related to travel
+2023-12-15,Shopping,-117.16,Chase,Shopping,
+2024-04-11,Entertainment,-414.45,Bank of America,Entertainment,
+2024-01-14,Groceries,-270.92,Chase,Household,
+2024-09-16,Groceries,-333.33,Bank of America,Household,
+2023-06-09,Travel,-153.47,Citibank,Travel,Expense related to travel
+2023-10-21,Entertainment,-153.95,Chase,Entertainment,
+2023-11-07,Dining,-410.53,Citibank,Food & Dining,
+2023-06-05,Rent,-222.94,Bank of America,Housing,
+2024-06-18,Healthcare,-477.01,Bank of America,Healthcare,
+2024-02-09,Dining,-172.68,Citibank,Food & Dining,
+2024-03-25,Travel,-87.1,Chase,Travel,
+2024-04-13,Dining,-286.43,Citibank,Food & Dining,
+2024-07-27,Healthcare,-394.84,Chase,Healthcare,
+2023-03-23,Healthcare,-56.3,Chase,Healthcare,
+2023-09-21,Shopping,-138.7,Bank of America,Shopping,
+2024-04-10,Travel,-164.61,Citibank,Travel,
+2023-10-29,Groceries,-210.19,Bank of America,Household,
+2024-06-17,Travel,-415.87,Chase,Travel,
+2024-05-24,Travel,-224.13,Citibank,Travel,
+2023-07-27,Rent,-64.29,Citibank,Housing,
+2023-11-21,Utilities,-208.08,Citibank,Utilities,Expense related to utilities
+2024-01-01,Travel,-28.72,Chase,Travel,Expense related to travel
+2024-09-15,Travel,-443.81,Citibank,Travel,
+2024-03-14,Travel,-367.57,Citibank,Travel,
+2023-01-10,Travel,-132.84,Bank of America,Travel,
+2024-06-02,Groceries,-120.16,Citibank,Household,
+2023-05-10,Entertainment,-313.8,Citibank,Entertainment,
+2023-01-10,Utilities,-498.91,Bank of America,Utilities,
+2023-11-03,Healthcare,-420.96,Citibank,Healthcare,
+2023-01-25,Healthcare,-441.52,Bank of America,Healthcare,
+2023-02-17,Groceries,-58.03,Citibank,Household,
+2024-02-02,Entertainment,-261.94,Chase,Entertainment,
+2023-01-30,Shopping,-371.21,Bank of America,Shopping,
+2023-05-10,Utilities,-95.61,Chase,Utilities,Expense related to utilities
+2024-02-07,Groceries,-205.79,Citibank,Household,
+2023-10-04,Education,-468.8,Chase,Education,
+2024-08-27,Education,-68.69,Chase,Education,
+2024-02-23,Shopping,-96.71,Chase,Shopping,Expense related to shopping
+2023-06-26,Healthcare,-373.79,Chase,Healthcare,
+2024-01-31,Utilities,-343.59,Citibank,Utilities,
+2023-10-27,Dining,-168.24,Chase,Food & Dining,
+2024-03-05,Groceries,-20.8,Citibank,Household,
+2023-06-24,Utilities,-283.54,Bank of America,Utilities,
+2023-05-17,Rent,-13.09,Chase,Housing,
+2024-03-18,Groceries,-134.08,Bank of America,Household,
+2023-05-05,Dining,-374.65,Bank of America,Food & Dining,
+2024-04-14,Entertainment,-208.57,Citibank,Entertainment,Expense related to entertainment
+2023-12-31,Shopping,-34.37,Citibank,Shopping,
+2023-03-12,Entertainment,-335.64,Citibank,Entertainment,
+2024-06-12,Travel,-417.78,Bank of America,Travel,
+2023-09-14,Education,-91.13,Citibank,Education,
+2024-09-22,Travel,-395.14,Bank of America,Travel,
+2024-01-03,Rent,-304.8,Chase,Housing,
+2023-03-18,Healthcare,-380.02,Bank of America,Healthcare,
+2023-01-26,Travel,-332.06,Citibank,Travel,
+2024-04-02,Groceries,-123.87,Bank of America,Household,
+2024-08-13,Shopping,-112.02,Chase,Shopping,
+2023-02-16,Travel,-121.51,Citibank,Travel,
+2024-07-26,Dining,-265.03,Citibank,Food & Dining,Expense related to dining
+2023-01-13,Education,-311.22,Bank of America,Education,
+2024-09-18,Education,-252.78,Citibank,Education,
+2024-08-13,Travel,-237.39,Bank of America,Travel,Expense related to travel
+2024-07-20,Dining,-192.87,Chase,Food & Dining,Expense related to dining
+2023-01-14,Rent,-435.6,Citibank,Housing,
+2023-11-11,Utilities,-477.42,Bank of America,Utilities,
+2023-04-22,Healthcare,-422.05,Chase,Healthcare,Expense related to healthcare
+2024-02-03,Utilities,-40.12,Chase,Utilities,
+2024-05-16,Healthcare,-426.2,Chase,Healthcare,
+2023-08-23,Shopping,-376.9,Chase,Shopping,
+2024-05-09,Dining,-286.13,Bank of America,Food & Dining,Expense related to dining
+2023-04-30,Travel,-116.65,Chase,Travel,
+2024-03-26,Healthcare,-472.85,Chase,Healthcare,
+2024-08-27,Entertainment,-165.69,Bank of America,Entertainment,
+2024-02-08,Utilities,-75.82,Chase,Utilities,
+2023-05-03,Entertainment,-152.79,Bank of America,Entertainment,
+2024-02-11,Entertainment,-128.79,Citibank,Entertainment,Expense related to entertainment
+2023-03-23,Entertainment,-474.82,Citibank,Entertainment,
+2023-08-17,Groceries,-444.51,Chase,Household,Expense related to groceries
+2024-07-18,Travel,-231.68,Citibank,Travel,
+2024-02-07,Shopping,-473.03,Citibank,Shopping,
+2024-06-10,Groceries,-71.06,Bank of America,Household,
+2023-03-26,Entertainment,-302.55,Bank of America,Entertainment,
+2024-08-08,Education,-346.55,Chase,Education,Expense related to education
+2023-11-06,Dining,-492.01,Chase,Food & Dining,Expense related to dining
+2023-04-21,Entertainment,-71.11,Bank of America,Entertainment,
+2023-02-01,Groceries,-29.69,Citibank,Household,
+2023-04-28,Healthcare,-496.42,Citibank,Healthcare,
+2024-08-11,Dining,-469.35,Chase,Food & Dining,
+2023-01-03,Dining,-308.27,Chase,Food & Dining,
+2023-07-27,Shopping,-51.52,Bank of America,Shopping,
+2024-07-08,Entertainment,-233.77,Bank of America,Entertainment,Expense related to entertainment
+2024-08-25,Groceries,-403.84,Chase,Household,
+2024-05-10,Utilities,-346.32,Bank of America,Utilities,
+2023-03-28,Education,-493.95,Citibank,Education,
+2023-02-07,Entertainment,-263.33,Chase,Entertainment,
+2023-04-04,Travel,-181.3,Citibank,Travel,
+2023-03-20,Healthcare,-184.98,Bank of America,Healthcare,
+2024-08-08,Rent,-90.84,Chase,Housing,
+2023-06-24,Healthcare,-30.77,Citibank,Healthcare,
+2023-03-28,Entertainment,-254.37,Bank of America,Entertainment,Expense related to entertainment
+2024-09-12,Education,-103.15,Citibank,Education,
+2023-10-13,Utilities,-135.66,Chase,Utilities,
+2023-09-23,Travel,-439.96,Bank of America,Travel,
+2023-06-14,Groceries,-135.31,Chase,Household,
+2023-06-22,Shopping,-451.76,Bank of America,Shopping,Expense related to shopping
+2024-05-26,Utilities,-477.9,Bank of America,Utilities,
+2023-01-06,Education,-4.05,Citibank,Education,Expense related to education
+2024-08-25,Rent,-309.64,Bank of America,Housing,
+2024-07-07,Shopping,-349.79,Bank of America,Shopping,Expense related to shopping
+2023-03-11,Education,-167.07,Citibank,Education,
+2024-09-21,Utilities,-334.08,Citibank,Utilities,
+2023-06-25,Education,-194.97,Bank of America,Education,
+2023-05-06,Groceries,-241.5,Citibank,Household,
+2024-07-24,Dining,-416.83,Citibank,Food & Dining,
+2024-03-31,Utilities,-400.26,Bank of America,Utilities,
+2023-04-11,Rent,-312.19,Citibank,Housing,
+2023-04-16,Education,-168.01,Bank of America,Education,
+2023-10-27,Utilities,-272.83,Citibank,Utilities,
+2023-05-09,Healthcare,-309.02,Chase,Healthcare,
+2024-03-12,Rent,-257.84,Citibank,Housing,
+2024-06-09,Entertainment,-230.81,Citibank,Entertainment,
+2024-01-22,Groceries,-404.52,Citibank,Household,
+2024-08-10,Healthcare,-85.34,Bank of America,Healthcare,Expense related to healthcare
+2023-11-09,Entertainment,-20.37,Bank of America,Entertainment,
+2023-01-14,Dining,-27.62,Bank of America,Food & Dining,Expense related to dining
+2023-08-15,Education,-323.42,Bank of America,Education,
+2024-04-17,Dining,-372.51,Bank of America,Food & Dining,
+2024-05-27,Main Job Income,400.0,Chase,Main Job,Additional income from main job
+2024-05-01,Investments Income,225.86,Chase,Investments,Additional income from investments
+2023-09-07,Real Estate Income,194.82,Chase,Real Estate,Additional income from real estate
+2024-09-14,Real Estate Income,447.82,Chase,Real Estate,Additional income from real estate
+2023-06-04,Real Estate Income,203.81,Chase,Real Estate,Additional income from real estate
+2024-09-01,Real Estate Income,281.24,Chase,Real Estate,Additional income from real estate
+2023-06-21,Investments Income,120.06,Chase,Investments,Additional income from investments
+2024-09-07,Investments Income,460.16,Chase,Investments,Additional income from investments
+2024-01-09,Real Estate Income,298.85,Chase,Real Estate,Additional income from real estate
+2023-02-12,Real Estate Income,356.1,Chase,Real Estate,Additional income from real estate
+2024-05-26,Investments Income,100.67,Chase,Investments,Additional income from investments
+2024-09-13,Investments Income,315.95,Chase,Investments,Additional income from investments
+2023-08-13,Real Estate Income,488.16,Chase,Real Estate,Additional income from real estate
+2023-03-03,Main Job Income,243.14,Chase,Main Job,Additional income from main job
+2024-07-07,Main Job Income,403.77,Chase,Main Job,Additional income from main job
+2024-03-31,Investments Income,354.37,Chase,Investments,Additional income from investments
+2023-11-06,Main Job Income,199.78,Chase,Main Job,Additional income from main job
+2024-09-17,Real Estate Income,96.45,Chase,Real Estate,Additional income from real estate
+2023-07-02,Main Job Income,100.81,Chase,Main Job,Additional income from main job
+2023-06-10,Real Estate Income,284.83,Chase,Real Estate,Additional income from real estate
+2024-06-02,Investments Income,68.66,Chase,Investments,Additional income from investments
+2023-09-29,Main Job Income,432.0,Chase,Main Job,Additional income from main job
+2023-04-09,Real Estate Income,351.19,Chase,Real Estate,Additional income from real estate
+2023-07-27,Main Job Income,217.19,Chase,Main Job,Additional income from main job
+2023-12-11,Main Job Income,438.47,Chase,Main Job,Additional income from main job
+2024-06-18,Real Estate Income,136.18,Chase,Real Estate,Additional income from real estate
+2023-06-20,Investments Income,202.63,Chase,Investments,Additional income from investments
+2023-07-15,Investments Income,106.29,Chase,Investments,Additional income from investments
+2024-05-16,Investments Income,482.32,Chase,Investments,Additional income from investments
+2023-11-06,Real Estate Income,249.16,Chase,Real Estate,Additional income from real estate
+2024-04-11,Main Job Income,162.46,Chase,Main Job,Additional income from main job
+2023-04-29,Investments Income,394.22,Chase,Investments,Additional income from investments
+2023-10-22,Investments Income,346.73,Chase,Investments,Additional income from investments
+2023-03-17,Real Estate Income,175.13,Chase,Real Estate,Additional income from real estate
+2024-09-11,Investments Income,459.64,Chase,Investments,Additional income from investments
+2024-08-01,Investments Income,222.44,Chase,Investments,Additional income from investments
+2024-03-04,Real Estate Income,143.43,Chase,Real Estate,Additional income from real estate
+2024-03-20,Investments Income,287.94,Chase,Investments,Additional income from investments
+2023-06-26,Real Estate Income,68.54,Chase,Real Estate,Additional income from real estate
+2024-02-29,Main Job Income,464.56,Chase,Main Job,Additional income from main job
+2023-09-12,Investments Income,144.52,Chase,Investments,Additional income from investments
+2023-02-15,Investments Income,278.53,Chase,Investments,Additional income from investments
+2024-08-25,Investments Income,345.21,Chase,Investments,Additional income from investments
+2023-05-05,Real Estate Income,489.16,Chase,Real Estate,Additional income from real estate
+2023-10-18,Real Estate Income,379.91,Chase,Real Estate,Additional income from real estate
+2024-03-21,Real Estate Income,430.85,Chase,Real Estate,Additional income from real estate
+2023-01-01,Main Job Income,84.77,Chase,Main Job,Additional income from main job
+2023-09-07,Main Job Income,401.98,Chase,Main Job,Additional income from main job
+2024-05-30,Real Estate Income,173.15,Chase,Real Estate,Additional income from real estate
+2023-06-30,Main Job Income,217.34,Chase,Main Job,Additional income from main job
+2023-11-21,Investments Income,203.65,Chase,Investments,Additional income from investments
+2024-05-30,Investments Income,180.96,Chase,Investments,Additional income from investments
+2023-12-05,Main Job Income,386.72,Chase,Main Job,Additional income from main job
+2024-06-23,Investments Income,214.0,Chase,Investments,Additional income from investments
+2023-04-17,Investments Income,328.32,Chase,Investments,Additional income from investments
+2024-09-05,Main Job Income,77.4,Chase,Main Job,Additional income from main job
+2024-07-23,Main Job Income,92.03,Chase,Main Job,Additional income from main job
+2023-09-07,Investments Income,94.8,Chase,Investments,Additional income from investments
+2023-06-30,Real Estate Income,61.67,Chase,Real Estate,Additional income from real estate
+2023-03-06,Real Estate Income,161.09,Chase,Real Estate,Additional income from real estate
+2024-09-15,Investments Income,142.31,Chase,Investments,Additional income from investments
+2023-05-13,Main Job Income,141.11,Chase,Main Job,Additional income from main job
+2023-10-22,Main Job Income,494.73,Chase,Main Job,Additional income from main job
+2023-01-01,Main Job Income,251.46,Chase,Main Job,Additional income from main job
+2023-07-23,Investments Income,117.08,Chase,Investments,Additional income from investments
+2024-05-25,Investments Income,293.64,Chase,Investments,Additional income from investments
+2023-10-02,Real Estate Income,320.36,Chase,Real Estate,Additional income from real estate
+2023-03-15,Main Job Income,397.84,Chase,Main Job,Additional income from main job
+2023-07-20,Investments Income,292.12,Chase,Investments,Additional income from investments
+2023-03-30,Real Estate Income,99.97,Chase,Real Estate,Additional income from real estate
+2024-01-03,Investments Income,187.79,Chase,Investments,Additional income from investments
+2023-02-10,Investments Income,482.05,Chase,Investments,Additional income from investments
+2023-06-08,Main Job Income,479.85,Chase,Main Job,Additional income from main job
+2024-03-23,Main Job Income,157.08,Chase,Main Job,Additional income from main job
+2023-09-21,Main Job Income,180.73,Chase,Main Job,Additional income from main job
+2023-07-29,Investments Income,98.95,Chase,Investments,Additional income from investments
+2023-09-20,Main Job Income,97.29,Chase,Main Job,Additional income from main job
+2023-09-30,Main Job Income,373.59,Chase,Main Job,Additional income from main job
+2024-08-12,Investments Income,240.6,Chase,Investments,Additional income from investments
+2023-01-27,Main Job Income,71.19,Chase,Main Job,Additional income from main job
+2023-11-21,Main Job Income,27.84,Chase,Main Job,Additional income from main job
+2023-11-26,Investments Income,163.18,Bank of America,Investments,Additional income from investments
+2023-07-06,Main Job Income,415.33,Bank of America,Main Job,Additional income from main job
+2024-07-06,Investments Income,91.76,Bank of America,Investments,Additional income from investments
+2024-07-01,Main Job Income,151.85,Bank of America,Main Job,Additional income from main job
+2024-05-17,Investments Income,76.31,Bank of America,Investments,Additional income from investments
+2023-08-10,Main Job Income,397.13,Bank of America,Main Job,Additional income from main job
+2023-01-04,Main Job Income,429.52,Bank of America,Main Job,Additional income from main job
+2024-06-01,Real Estate Income,396.65,Bank of America,Real Estate,Additional income from real estate
+2023-05-14,Main Job Income,321.67,Bank of America,Main Job,Additional income from main job
+2023-04-30,Main Job Income,488.74,Bank of America,Main Job,Additional income from main job
+2023-04-13,Real Estate Income,282.81,Bank of America,Real Estate,Additional income from real estate
+2023-10-12,Real Estate Income,339.81,Bank of America,Real Estate,Additional income from real estate
+2023-09-11,Main Job Income,79.74,Bank of America,Main Job,Additional income from main job
+2024-07-04,Investments Income,298.54,Bank of America,Investments,Additional income from investments
+2023-07-23,Real Estate Income,233.6,Bank of America,Real Estate,Additional income from real estate
+2024-02-01,Investments Income,489.21,Bank of America,Investments,Additional income from investments
+2023-03-11,Investments Income,300.57,Bank of America,Investments,Additional income from investments
+2023-07-30,Real Estate Income,61.57,Bank of America,Real Estate,Additional income from real estate
+2024-09-22,Main Job Income,488.73,Bank of America,Main Job,Additional income from main job
+2024-03-14,Main Job Income,335.41,Bank of America,Main Job,Additional income from main job
+2023-05-01,Main Job Income,245.22,Bank of America,Main Job,Additional income from main job
+2023-06-20,Real Estate Income,326.74,Bank of America,Real Estate,Additional income from real estate
+2023-05-05,Real Estate Income,450.8,Bank of America,Real Estate,Additional income from real estate
+2023-06-22,Main Job Income,494.16,Bank of America,Main Job,Additional income from main job
+2024-08-22,Main Job Income,198.63,Bank of America,Main Job,Additional income from main job
+2024-07-06,Investments Income,272.85,Bank of America,Investments,Additional income from investments
+2023-08-30,Main Job Income,218.76,Bank of America,Main Job,Additional income from main job
+2024-06-26,Investments Income,456.69,Bank of America,Investments,Additional income from investments
+2023-03-09,Investments Income,92.68,Bank of America,Investments,Additional income from investments
+2023-12-10,Investments Income,476.46,Bank of America,Investments,Additional income from investments
+2023-02-09,Investments Income,193.69,Bank of America,Investments,Additional income from investments
+2024-03-08,Real Estate Income,475.65,Bank of America,Real Estate,Additional income from real estate
+2023-01-12,Real Estate Income,284.49,Bank of America,Real Estate,Additional income from real estate
+2024-02-24,Real Estate Income,112.42,Bank of America,Real Estate,Additional income from real estate
+2023-08-29,Real Estate Income,108.13,Bank of America,Real Estate,Additional income from real estate
+2024-03-18,Investments Income,208.3,Bank of America,Investments,Additional income from investments
+2024-09-14,Investments Income,179.04,Bank of America,Investments,Additional income from investments
+2024-09-16,Main Job Income,419.18,Bank of America,Main Job,Additional income from main job
+2023-12-11,Main Job Income,406.18,Bank of America,Main Job,Additional income from main job
+2024-02-16,Investments Income,476.7,Bank of America,Investments,Additional income from investments
+2024-08-20,Main Job Income,78.59,Bank of America,Main Job,Additional income from main job
+2023-07-14,Investments Income,473.85,Bank of America,Investments,Additional income from investments
+2023-01-03,Main Job Income,70.43,Bank of America,Main Job,Additional income from main job
+2023-09-04,Main Job Income,195.24,Bank of America,Main Job,Additional income from main job
+2023-12-19,Investments Income,441.65,Bank of America,Investments,Additional income from investments
+2024-04-22,Main Job Income,95.76,Bank of America,Main Job,Additional income from main job
+2023-07-06,Real Estate Income,133.22,Bank of America,Real Estate,Additional income from real estate
+2024-05-05,Real Estate Income,190.23,Bank of America,Real Estate,Additional income from real estate
+2023-10-14,Real Estate Income,175.35,Bank of America,Real Estate,Additional income from real estate
+2023-08-05,Main Job Income,53.85,Bank of America,Main Job,Additional income from main job
+2023-07-08,Investments Income,221.61,Bank of America,Investments,Additional income from investments
+2024-01-19,Investments Income,191.2,Bank of America,Investments,Additional income from investments
+2024-09-21,Real Estate Income,486.41,Bank of America,Real Estate,Additional income from real estate
+2024-08-25,Real Estate Income,106.33,Bank of America,Real Estate,Additional income from real estate
+2023-03-14,Real Estate Income,141.96,Bank of America,Real Estate,Additional income from real estate
+2023-03-05,Main Job Income,167.54,Bank of America,Main Job,Additional income from main job
+2024-08-27,Real Estate Income,384.68,Bank of America,Real Estate,Additional income from real estate
+2023-04-15,Main Job Income,256.91,Bank of America,Main Job,Additional income from main job
+2023-06-23,Real Estate Income,262.48,Bank of America,Real Estate,Additional income from real estate
+2023-03-14,Real Estate Income,238.84,Bank of America,Real Estate,Additional income from real estate
+2023-05-21,Investments Income,314.11,Bank of America,Investments,Additional income from investments
+2024-09-23,Investments Income,413.04,Bank of America,Investments,Additional income from investments
+2024-03-21,Real Estate Income,388.08,Bank of America,Real Estate,Additional income from real estate
+2024-08-08,Investments Income,351.09,Bank of America,Investments,Additional income from investments
+2023-02-26,Investments Income,132.61,Bank of America,Investments,Additional income from investments
+2023-02-17,Investments Income,163.98,Bank of America,Investments,Additional income from investments
+2023-09-03,Investments Income,166.97,Bank of America,Investments,Additional income from investments
+2023-05-28,Investments Income,244.87,Bank of America,Investments,Additional income from investments
+2023-06-04,Main Job Income,84.67,Bank of America,Main Job,Additional income from main job
+2023-09-24,Investments Income,252.01,Bank of America,Investments,Additional income from investments
+2023-05-19,Real Estate Income,106.1,Bank of America,Real Estate,Additional income from real estate
+2024-05-31,Investments Income,447.9,Bank of America,Investments,Additional income from investments
+2024-02-23,Investments Income,73.54,Bank of America,Investments,Additional income from investments
+2023-05-02,Investments Income,349.02,Bank of America,Investments,Additional income from investments
+2024-04-07,Real Estate Income,50.44,Bank of America,Real Estate,Additional income from real estate
+2023-09-15,Investments Income,258.42,Bank of America,Investments,Additional income from investments
+2024-02-21,Real Estate Income,362.76,Bank of America,Real Estate,Additional income from real estate
+2023-02-24,Investments Income,306.1,Bank of America,Investments,Additional income from investments
+2023-04-04,Real Estate Income,53.87,Bank of America,Real Estate,Additional income from real estate
+2024-07-02,Main Job Income,190.76,Bank of America,Main Job,Additional income from main job
+2023-11-26,Real Estate Income,151.64,Bank of America,Real Estate,Additional income from real estate
+2023-01-30,Investments Income,393.18,Bank of America,Investments,Additional income from investments
+2023-04-13,Main Job Income,461.01,Bank of America,Main Job,Additional income from main job
+2024-06-13,Real Estate Income,220.84,Bank of America,Real Estate,Additional income from real estate
+2024-03-26,Main Job Income,132.37,Bank of America,Main Job,Additional income from main job
+2023-04-06,Investments Income,402.82,Bank of America,Investments,Additional income from investments
+2023-09-30,Investments Income,340.16,Bank of America,Investments,Additional income from investments
+2024-09-02,Investments Income,314.35,Bank of America,Investments,Additional income from investments
+2023-04-04,Main Job Income,126.98,Bank of America,Main Job,Additional income from main job
+2023-05-22,Investments Income,414.17,Bank of America,Investments,Additional income from investments
+2023-06-18,Investments Income,95.46,Bank of America,Investments,Additional income from investments
+2023-10-31,Investments Income,341.18,Bank of America,Investments,Additional income from investments
+2023-02-11,Investments Income,366.69,Bank of America,Investments,Additional income from investments
+2024-01-20,Investments Income,100.73,Bank of America,Investments,Additional income from investments
+2023-09-24,Main Job Income,453.72,Bank of America,Main Job,Additional income from main job
+2023-08-09,Real Estate Income,427.82,Bank of America,Real Estate,Additional income from real estate
+2023-07-05,Main Job Income,67.32,Bank of America,Main Job,Additional income from main job
+2024-05-27,Real Estate Income,46.98,Bank of America,Real Estate,Additional income from real estate
+2023-07-14,Investments Income,382.93,Citibank,Investments,Additional income from investments
+2023-11-15,Main Job Income,256.47,Citibank,Main Job,Additional income from main job
+2023-07-26,Real Estate Income,52.57,Citibank,Real Estate,Additional income from real estate
+2023-03-29,Investments Income,105.51,Citibank,Investments,Additional income from investments
+2023-02-09,Real Estate Income,115.67,Citibank,Real Estate,Additional income from real estate
+2023-11-18,Main Job Income,222.59,Citibank,Main Job,Additional income from main job
+2024-04-18,Main Job Income,415.68,Citibank,Main Job,Additional income from main job
+2023-07-21,Real Estate Income,313.35,Citibank,Real Estate,Additional income from real estate
+2024-05-10,Real Estate Income,193.5,Citibank,Real Estate,Additional income from real estate
+2024-03-10,Investments Income,287.11,Citibank,Investments,Additional income from investments
+2023-04-17,Main Job Income,361.44,Citibank,Main Job,Additional income from main job
+2023-06-24,Real Estate Income,189.0,Citibank,Real Estate,Additional income from real estate
+2023-11-14,Real Estate Income,92.08,Citibank,Real Estate,Additional income from real estate
+2023-10-08,Real Estate Income,305.92,Citibank,Real Estate,Additional income from real estate
+2023-06-27,Main Job Income,196.52,Citibank,Main Job,Additional income from main job
+2023-09-02,Investments Income,221.63,Citibank,Investments,Additional income from investments
+2024-02-28,Real Estate Income,155.71,Citibank,Real Estate,Additional income from real estate
+2023-01-29,Real Estate Income,286.2,Citibank,Real Estate,Additional income from real estate
+2023-11-28,Investments Income,244.78,Citibank,Investments,Additional income from investments
+2024-07-17,Real Estate Income,75.97,Citibank,Real Estate,Additional income from real estate
+2023-05-18,Main Job Income,452.57,Citibank,Main Job,Additional income from main job
+2024-09-03,Investments Income,385.45,Citibank,Investments,Additional income from investments
+2024-01-14,Investments Income,70.2,Citibank,Investments,Additional income from investments
+2024-06-19,Main Job Income,496.78,Citibank,Main Job,Additional income from main job
+2024-05-09,Main Job Income,263.33,Citibank,Main Job,Additional income from main job
+2023-05-01,Main Job Income,72.03,Citibank,Main Job,Additional income from main job
+2024-07-06,Investments Income,447.45,Citibank,Investments,Additional income from investments
+2023-09-13,Investments Income,429.01,Citibank,Investments,Additional income from investments
+2023-01-01,Investments Income,227.42,Citibank,Investments,Additional income from investments
+2024-02-06,Main Job Income,219.22,Citibank,Main Job,Additional income from main job
+2023-05-27,Investments Income,81.84,Citibank,Investments,Additional income from investments
+2024-07-11,Investments Income,258.29,Citibank,Investments,Additional income from investments
+2023-02-16,Real Estate Income,197.2,Citibank,Real Estate,Additional income from real estate
+2023-12-17,Real Estate Income,318.66,Citibank,Real Estate,Additional income from real estate
+2024-04-25,Real Estate Income,122.79,Citibank,Real Estate,Additional income from real estate
+2023-06-13,Main Job Income,368.76,Citibank,Main Job,Additional income from main job
+2023-09-05,Investments Income,473.21,Citibank,Investments,Additional income from investments
+2024-06-01,Investments Income,388.99,Citibank,Investments,Additional income from investments
+2023-01-06,Main Job Income,166.72,Citibank,Main Job,Additional income from main job
+2024-06-05,Real Estate Income,284.25,Citibank,Real Estate,Additional income from real estate
+2023-09-04,Investments Income,435.6,Citibank,Investments,Additional income from investments
+2024-02-12,Real Estate Income,141.92,Citibank,Real Estate,Additional income from real estate
+2024-01-02,Main Job Income,127.3,Citibank,Main Job,Additional income from main job
+2024-09-12,Main Job Income,60.41,Citibank,Main Job,Additional income from main job
+2023-01-31,Main Job Income,348.69,Citibank,Main Job,Additional income from main job
+2023-07-06,Real Estate Income,399.66,Citibank,Real Estate,Additional income from real estate
+2023-09-08,Investments Income,208.49,Citibank,Investments,Additional income from investments
+2023-06-23,Main Job Income,330.09,Citibank,Main Job,Additional income from main job
+2024-02-05,Main Job Income,145.97,Citibank,Main Job,Additional income from main job
+2023-03-13,Investments Income,441.42,Citibank,Investments,Additional income from investments
+2024-04-12,Main Job Income,155.44,Citibank,Main Job,Additional income from main job
+2024-05-31,Investments Income,272.97,Citibank,Investments,Additional income from investments
+2023-05-22,Real Estate Income,354.38,Citibank,Real Estate,Additional income from real estate
+2023-01-21,Main Job Income,474.86,Citibank,Main Job,Additional income from main job
+2023-04-27,Investments Income,117.27,Citibank,Investments,Additional income from investments
+2024-01-08,Investments Income,270.69,Citibank,Investments,Additional income from investments
+2023-08-18,Real Estate Income,109.36,Citibank,Real Estate,Additional income from real estate
+2024-01-31,Main Job Income,139.79,Citibank,Main Job,Additional income from main job
+2023-09-30,Investments Income,274.82,Citibank,Investments,Additional income from investments
+2023-06-02,Investments Income,464.05,Citibank,Investments,Additional income from investments
+2023-07-22,Real Estate Income,449.55,Citibank,Real Estate,Additional income from real estate
+2024-08-22,Main Job Income,240.59,Citibank,Main Job,Additional income from main job
+2024-06-04,Main Job Income,334.18,Citibank,Main Job,Additional income from main job
+2023-05-16,Main Job Income,403.88,Citibank,Main Job,Additional income from main job
+2024-07-27,Main Job Income,498.65,Citibank,Main Job,Additional income from main job
+2023-02-13,Main Job Income,332.72,Citibank,Main Job,Additional income from main job
+2024-03-20,Real Estate Income,235.7,Citibank,Real Estate,Additional income from real estate
+2024-09-10,Main Job Income,201.25,Citibank,Main Job,Additional income from main job
+2023-07-20,Real Estate Income,312.24,Citibank,Real Estate,Additional income from real estate
+2023-06-17,Real Estate Income,385.72,Citibank,Real Estate,Additional income from real estate
+2023-01-16,Main Job Income,471.84,Citibank,Main Job,Additional income from main job
+2023-11-11,Investments Income,379.36,Citibank,Investments,Additional income from investments
+2023-05-03,Investments Income,296.89,Citibank,Investments,Additional income from investments
+2023-02-22,Main Job Income,476.79,Citibank,Main Job,Additional income from main job
+2023-03-27,Investments Income,382.38,Citibank,Investments,Additional income from investments
+2024-08-10,Investments Income,394.69,Citibank,Investments,Additional income from investments
+2024-05-18,Main Job Income,395.36,Citibank,Main Job,Additional income from main job
+2024-05-10,Real Estate Income,335.65,Citibank,Real Estate,Additional income from real estate
+2024-03-14,Main Job Income,77.66,Citibank,Main Job,Additional income from main job
+2023-09-30,Main Job Income,404.72,Citibank,Main Job,Additional income from main job
+2024-08-05,Investments Income,94.72,Citibank,Investments,Additional income from investments
+2024-09-23,Main Job Income,71.19,Citibank,Main Job,Additional income from main job
+2024-05-13,Real Estate Income,165.24,Citibank,Real Estate,Additional income from real estate
+2023-01-17,Real Estate Income,136.27,Citibank,Real Estate,Additional income from real estate
+2024-08-16,Real Estate Income,327.89,Citibank,Real Estate,Additional income from real estate
+2024-09-23,Real Estate Income,299.22,Citibank,Real Estate,Additional income from real estate
+2023-07-07,Investments Income,201.74,Citibank,Investments,Additional income from investments
+2023-07-19,Real Estate Income,68.42,Citibank,Real Estate,Additional income from real estate
+2024-04-24,Main Job Income,32.04,Citibank,Main Job,Additional income from main job
+2024-09-26,Final Income,997.31,Chase,Other Income,Final adjustment to ensure higher net value
+2024-09-26,Final Income,998.92,Bank of America,Other Income,Final adjustment to ensure higher net value
+2024-09-26,Final Income,992.01,Citibank,Other Income,Final adjustment to ensure higher net value
+2024-09-26,Final Income,2455.24,Chase,Other Income,Random final adjustment to ensure higher net value
+2024-09-26,Final Income,3071.35,Bank of America,Other Income,Random final adjustment to ensure higher net value
+2024-09-26,Final Income,3838.53,Citibank,Other Income,Random final adjustment to ensure higher net value
