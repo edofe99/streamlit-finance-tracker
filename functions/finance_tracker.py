@@ -62,7 +62,7 @@ def expense_earning_chart():
 def main_dashboard():
     # sum_dashboard()
 
-    tab1, tab2 = st.tabs(["🏠 Dashboard", "💰 Expenses List"])
+    tab1, tab2 = st.tabs(["🏠 Dashboard", "💰 Transactions"])
 
     
     with tab1:
@@ -72,7 +72,7 @@ def main_dashboard():
 
     with tab2:
 
-        st.markdown('### Expenses from')        
+        st.markdown('### Transactions')        
         
         df = st.session_state.data
         df = df.sort_values(by='Date', ascending=True)
