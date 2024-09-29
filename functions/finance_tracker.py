@@ -106,7 +106,7 @@ def main_dashboard():
             df_toplot = df[(df['Date'] >= start_of_year) & (df['Date'] <= end_of_year)]
             st.session_state.custom_range = False
 
-        if custom_range.button('Custom range') or st.session_state.custom_range:
+        if custom_range.button('Custom date inteval') or st.session_state.custom_range:
             st.session_state.custom_range = True
             col_start,col_end = st.columns(2)
             date_start = col_start.date_input(

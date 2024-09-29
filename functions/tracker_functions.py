@@ -50,12 +50,18 @@ def edit_expense():
         #st.markdown('### Select entry to edit')
         col1, col2 = st.columns(2)
         with col1:
-            date = col1.date_input("Date", value="today", format='YYYY-MM-DD')
+            date = col1.date_input(
+                "Date of the transaction to edit:",
+                value=df['Date'].max(),
+                min_value=df['Date'].min(),
+                max_value=df['Date'].max(),
+                format="YYYY-MM-DD",
+                )
             filtered_df = df[df['Date'] == date.strftime('%Y-%m-%d')]
         with col2:
             check_expenses = 'No expenses for this date' if df[df['Date'] == date.strftime('%Y-%m-%d')].empty else 'Choose an option'
             expense = col2.selectbox(
-                 label='Select field to edit',
+                 label='Field of the transaction to edit:',
                  index=None,
                  placeholder=check_expenses,
                  options= filtered_df['Expense'].drop_duplicates().tolist()
