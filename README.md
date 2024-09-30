@@ -1,7 +1,7 @@
 # Streamlit Personal Finances Tracker
 *A finance tracker web-app built with Streamlit.*
 
-**🎈 Try the application with simulated data [here](https://personal-finances-tracker.streamlit.app/). 🎈**
+**🎈 [Try the application with simulated data](https://personal-finances-tracker.streamlit.app/) 🎈**
 
 <!---
 - ✏️ Interact and make suggestion [here](https://discuss.streamlit.io/t/a-personal-finances-tracker-in-streamlit/82208). ✏️
