@@ -4,7 +4,7 @@ import time
 from datetime import date
 import plotly.express as px
 
-@st.dialog("Add a new expense",width="large")
+@st.dialog("Add a new transaction",width="large")
 def add_expense():
     date = st.date_input("Date", value="today",format='YYYY-MM-DD')
     expense = st.text_input("Expense")
@@ -39,7 +39,7 @@ def add_expense():
         time.sleep(1)
         st.rerun()
 
-@st.dialog("Field Editor",width="large")
+@st.dialog("Transaction Editor",width="large")
 def edit_expense():
     
     df = st.session_state.data
